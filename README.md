@@ -1,2 +1,2 @@
 # EEGPatternizer
-This C# program convert EEG signals to image patterns. 
+This C# program converts EEG signals to image patterns. 
