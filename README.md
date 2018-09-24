@@ -25,5 +25,7 @@ This C# program converts EEG signals to image patterns.
  PSRTC - colored version of abowe pattern
 ```
 ## ScreenShot
-
+<div align="center">
+    <img src="https://i.imgur.com/aIojfPW.png" width="320" height="320">
+ </div>
 
