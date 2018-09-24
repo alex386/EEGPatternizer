@@ -12,6 +12,7 @@ This C# program converts EEG signals to image patterns.
 ```
  Ihe input data should be in two columns
  Time EEG_Data
+ https://github.com/alex386/EEGPatternizer/tree/master/TestSignal
 ```
 
 ## Output
