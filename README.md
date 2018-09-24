@@ -26,6 +26,6 @@ This C# program converts EEG signals to image patterns.
 ```
 ## ScreenShot
 <div align="center">
-    <img src="https://i.imgur.com/aIojfPW.png" width="320" height="320">
+    <img src="https://github.com/alex386/EEGPatternizer/blob/master/EEGPatternizer.jpg" width="855" height="517">
  </div>
 
