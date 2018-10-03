@@ -19,7 +19,7 @@ This C# program converts EEG signals to image patterns.
 ```
  RAW - pattern of raw EEG signal
  FFT - pattern of Fourier transform of EEG signal
- DWT - pattern of Haar wavelet transform of EEG signal
+ Haar - pattern of Haar wavelet transform of EEG signal
  PSRD - phase space reconstruction pattern
  PSRDC - colored phase space reconstruction pattern
  PSRT - general phase space reconstruction pattern with delay value T
