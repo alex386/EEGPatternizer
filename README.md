@@ -1,5 +1,5 @@
 # EEGPatternizer
-This C# program converts EEG signals to image patterns. 
+EEGPatternizer: An EEG signals converter to image pattern written in C# language. 
 
 ## You need
 ```
